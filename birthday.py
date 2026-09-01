@@ -2,15 +2,15 @@ from emotionweb import Surprise
 
 s=Surprise(
     type="birthday",
-    name="Aniket Vishwakarma",
+    name="Unknown",
     message="happy birthday sir",
     images=[
         "images/avi.jpeg",
         "images/travel.avif",
     ],
     caption=[
-        "i love you honey",
-        "aniket is aniket",
+        "hello",
+        "work on you",
     ]
     
 )
